@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>니니바바</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ninibaba.kr/</link>
     <description>준비 중</description>
     <generator>Hugo 0.136.3 &amp; FixIt v0.3.13</generator>
     <language>ko</language>
     <managingEditor>captain@ninibaba.kr (ninibaba)</managingEditor>
     <webMaster>captain@ninibaba.kr (ninibaba)</webMaster>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ninibaba.kr/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
