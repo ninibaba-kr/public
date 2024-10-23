@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>모든 게시글 - 니니바바</title>
+    <link>https://ninibaba.kr/posts/</link>
+    <description>준비 중</description>
+    <generator>Hugo 0.136.3 &amp; FixIt v0.3.13</generator>
+    <language>ko</language>
+    <managingEditor>captain@ninibaba.kr (ninibaba)</managingEditor>
+    <webMaster>captain@ninibaba.kr (ninibaba)</webMaster>
+    <copyright>ninibaba</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://ninibaba.kr/posts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
